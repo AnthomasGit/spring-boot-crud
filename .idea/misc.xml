@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-springboot-rest-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-rest-crud-employees/pom.xml" />
       </list>
     </option>
   </component>
